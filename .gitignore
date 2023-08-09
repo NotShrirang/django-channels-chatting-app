@@ -1,2 +1,3 @@
 venv/
 chat/__pycache__/
+mychatapp/__pycache__/
