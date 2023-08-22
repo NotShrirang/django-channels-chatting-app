@@ -1,6 +1,8 @@
 # Chatting App using Django Channels
 Real time chatting application implemented using Django Channels.
 
+This is implementation of my blog - <b><a href="https://medium.com/atomic-loops/django-channels-is-all-you-need-94628dd6815c">Django Channels is All You Need</a></b>
+
 ## Installation guide:
 
 ### Clone the repo:
